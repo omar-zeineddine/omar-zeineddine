@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h2>About me:</h2>
 
-[Omar Zeineddine | Banner](banner.png)
+![Omar Zeineddine | Banner](banner.png)
 
 
 <h2>Connect:</h2>
